@@ -1,0 +1,1 @@
+create database Bulk_Certificate_Generator;
